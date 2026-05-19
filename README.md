@@ -162,25 +162,4 @@ This project can be used as a base for:
 - behavioral analysis
 - emotion classification experiments
 
----
 
-## Notes
-
-This notebook is designed for experimentation and research. Real-world use may require:
-
-- larger and more diverse datasets
-- further tuning for class imbalance
-- robustness testing on unseen data
-- ethical review for sensitive applications
-
----
-
-## Files Generated
-
-The notebook saves:
-
-- `train_set.csv`
-- `valid_set.csv`
-- `test_set.csv`
-- `model_resnet50.pt`
-- `results.csv`
